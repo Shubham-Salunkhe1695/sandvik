@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.24.17733.0%0D%0A%0D%0A00:00:00.056%20--%3E%2000:00:01.988%0D%0A%C3%85h...%20Varf%C3%B6r%20ber%C3%A4ttade%20du%20inte%20f%C3%B6r%20mig?%0D%0A%0D%0A"}')

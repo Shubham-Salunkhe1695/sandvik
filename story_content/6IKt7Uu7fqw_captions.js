@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0ATyp:%20bildtext%0D%0AK%C3%A4lla:%20Articulate%20Closed%20Captions%20Editor%0D%0AK%C3%A4llans%20version:%206.63.27674.0%0D%0A%0D%0A00:00:00.064%20--%3E%2000:00:03.123%0D%0AKoppla%20kraven%20till%20r%C3%A4tt%20roller.%0D%0A%0D%0A"}')
